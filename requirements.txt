@@ -1,0 +1,13 @@
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.1
+xgboost==1.7.3
+seaborn==0.13.2
+matplotlib==3.10.0
+scipy==1.13.0
+lifelines==0.30.0
+torch==2.2.2
+torch_geometric==2.5.2
+joblib==1.4.2
+scikit-survival==0.24.0
+tabulate==0.9.0

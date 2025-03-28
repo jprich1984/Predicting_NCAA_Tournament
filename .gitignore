@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# CSV files
+*.csv
